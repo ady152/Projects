@@ -1,4 +1,11 @@
 .point{
     color: yellow;
     width: 53px;
+    display: table-cell;
+}
+.percent{
+    display: table-cell;
+}
+.team{
+    display: table-cell;
 }
