@@ -5,3 +5,6 @@
 .team{
     display: table-cell;
 }
+.name{
+    font-size: 30pt;
+}
